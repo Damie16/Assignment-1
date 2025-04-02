@@ -5,3 +5,4 @@ The main purpose behind the existence of this Meal Plan App is that the users 
 github link: https://github.com/Damie16/Assignment-1/tree/main
 Youtube video link: https://youtu.be/ItyD83D5GcY
 
+![lab-e3d883f6-6396-4c12-9c3d-80296dc3f996 westeurope cloudapp azure com_7099 - Remote Desktop Connection 2025_04_02 21_01_24](https://github.com/user-attachments/assets/dd76a93a-45de-4234-9b0f-e104da5298bb)
